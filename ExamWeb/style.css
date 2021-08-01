@@ -1,0 +1,30 @@
+* {
+  margin: auto;
+  padding: 2px;
+  font-family: "Inter", sans-serif;
+  box-sizing: border-box;
+}
+
+.nav-bar {
+  background-color: #2e3b44;
+}
+
+.FirstPage {
+  margin-top: 70px;
+}
+.nav-list {
+  color: black;
+  text-decoration: none;
+  list-style: none;
+}
+.features-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+
+.get-unlimited {
+  color: aliceblue;
+  padding: 0px;
+  align-items: baseline;
+}
